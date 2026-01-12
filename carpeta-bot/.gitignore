@@ -1,0 +1,11 @@
+# Variables de entorno (SECRETOS)
+.env
+
+# Dependencias (No se suben porque son pesadas y se reinstalan con npm install)
+node_modules/
+
+# Archivos del sistema o registros de errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
